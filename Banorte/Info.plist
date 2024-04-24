@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>UIUserInterfaceStyle</key>
+    <string>Light</string>
+    <key>UIApplicationSupportsIndirectInputEvents</key>
+    <true/>
+    <key>UIApplicationShortcutItems</key>
+    <array>
+        <!-- Aquí puedes agregar los ítems de atajo rápido que desees mantener -->
+    </array>
+    <!-- Aquí puedes agregar otros elementos del archivo Info.plist que sean necesarios -->
+</dict>
+</plist>
